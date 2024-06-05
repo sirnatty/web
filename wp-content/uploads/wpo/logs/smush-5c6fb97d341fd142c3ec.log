@@ -1,0 +1,166 @@
+[2024-06-05 11:25:00 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-06-05 11:25:02 : INFO] - A total of 23 tasks of type smush found and will be processed in this iteration 
+[2024-06-05 11:25:02 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-06-05 11:25:02 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-06-05 11:25:02 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2024-06-05 11:25:02 : INFO] - Re_Smush_It_Task - Attachment ID : 10, Started on : June 05, 2024 11:25:00 
+[2024-06-05 11:25:02 : INFO] - File: SAVE_20240602_052921.jpg, Compression quality: 92 
+[2024-06-05 11:25:03 : INFO] - Backing up the original image - 2024/06/SAVE_20240602_052921-updraft-pre-smush-original.jpg 
+[2024-06-05 11:25:08 : INFO] - Successfully optimized the image - /srv/vhost/fitnatty.net/home/html/wp-content/uploads/2024/06/SAVE_20240602_052921.jpg.El archivo se ha comprimido de 171.67 KB a 104.14 KB, ahorrando un 39.34 por ciento, usando WP-Optimize 
+[2024-06-05 11:25:08 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2024-06-05 11:25:08 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2024-06-05 11:25:08 : INFO] - Re_Smush_It_Task - Attachment ID : 11, Started on : June 05, 2024 11:25:00 
+[2024-06-05 11:25:08 : INFO] - File: cropped-SAVE_20240602_052921.jpg, Compression quality: 92 
+[2024-06-05 11:25:09 : INFO] - Backing up the original image - 2024/06/cropped-SAVE_20240602_052921-updraft-pre-smush-original.jpg 
+[2024-06-05 11:25:12 : INFO] - Successfully optimized the image - /srv/vhost/fitnatty.net/home/html/wp-content/uploads/2024/06/cropped-SAVE_20240602_052921.jpg.El archivo se ha comprimido de 81.33 KB a 78.31 KB, ahorrando un 3.71 por ciento, usando WP-Optimize 
+[2024-06-05 11:25:12 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2024-06-05 11:25:12 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2024-06-05 11:25:12 : INFO] - Re_Smush_It_Task - Attachment ID : 30, Started on : June 05, 2024 11:25:00 
+[2024-06-05 11:25:12 : INFO] - File: SAVE_20240602_052927.jpg, Compression quality: 92 
+[2024-06-05 11:25:14 : INFO] - Backing up the original image - 2024/06/SAVE_20240602_052927-updraft-pre-smush-original.jpg 
+[2024-06-05 11:25:17 : INFO] - Successfully optimized the image - /srv/vhost/fitnatty.net/home/html/wp-content/uploads/2024/06/SAVE_20240602_052927.jpg.El archivo se ha comprimido de 315.15 KB a 202.83 KB, ahorrando un 35.64 por ciento, usando WP-Optimize 
+[2024-06-05 11:25:17 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2024-06-05 11:25:17 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2024-06-05 11:25:17 : INFO] - Re_Smush_It_Task - Attachment ID : 32, Started on : June 05, 2024 11:25:00 
+[2024-06-05 11:25:17 : INFO] - File: SAVE_20240602_052921-1.jpg, Compression quality: 92 
+[2024-06-05 11:25:19 : INFO] - Backing up the original image - 2024/06/SAVE_20240602_052921-1-updraft-pre-smush-original.jpg 
+[2024-06-05 11:25:23 : INFO] - Successfully optimized the image - /srv/vhost/fitnatty.net/home/html/wp-content/uploads/2024/06/SAVE_20240602_052921-1.jpg.El archivo se ha comprimido de 171.67 KB a 104.14 KB, ahorrando un 39.34 por ciento, usando WP-Optimize 
+[2024-06-05 11:25:23 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2024-06-05 11:25:23 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2024-06-05 11:25:23 : INFO] - Re_Smush_It_Task - Attachment ID : 46, Started on : June 05, 2024 11:25:00 
+[2024-06-05 11:25:23 : INFO] - File: SAVE_20240602_052921-2.jpg, Compression quality: 92 
+[2024-06-05 11:25:24 : INFO] - Backing up the original image - 2024/06/SAVE_20240602_052921-2-updraft-pre-smush-original.jpg 
+[2024-06-05 11:25:28 : INFO] - Successfully optimized the image - /srv/vhost/fitnatty.net/home/html/wp-content/uploads/2024/06/SAVE_20240602_052921-2.jpg.El archivo se ha comprimido de 171.67 KB a 104.14 KB, ahorrando un 39.34 por ciento, usando WP-Optimize 
+[2024-06-05 11:25:28 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2024-06-05 11:25:28 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2024-06-05 11:25:28 : INFO] - Re_Smush_It_Task - Attachment ID : 56, Started on : June 05, 2024 11:25:00 
+[2024-06-05 11:25:28 : INFO] - File: cropped-SAVE_20240602_052927-1.jpg, Compression quality: 92 
+[2024-06-05 11:25:30 : INFO] - Backing up the original image - 2024/06/cropped-SAVE_20240602_052927-1-updraft-pre-smush-original.jpg 
+[2024-06-05 11:25:34 : INFO] - Successfully optimized the image - /srv/vhost/fitnatty.net/home/html/wp-content/uploads/2024/06/cropped-SAVE_20240602_052927-1.jpg.El archivo se ha comprimido de 198.72 KB a 194.38 KB, ahorrando un 2.18 por ciento, usando WP-Optimize 
+[2024-06-05 11:25:34 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2024-06-05 11:25:34 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2024-06-05 11:25:34 : INFO] - Re_Smush_It_Task - Attachment ID : 58, Started on : June 05, 2024 11:25:00 
+[2024-06-05 11:25:34 : INFO] - File: cropped-SAVE_20240602_052921-2.jpg, Compression quality: 92 
+[2024-06-05 11:25:35 : INFO] - Backing up the original image - 2024/06/cropped-SAVE_20240602_052921-2-updraft-pre-smush-original.jpg 
+[2024-06-05 11:25:39 : INFO] - Successfully optimized the image - /srv/vhost/fitnatty.net/home/html/wp-content/uploads/2024/06/cropped-SAVE_20240602_052921-2.jpg.El archivo se ha comprimido de 90.68 KB a 88.36 KB, ahorrando un 2.56 por ciento, usando WP-Optimize 
+[2024-06-05 11:25:39 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2024-06-05 11:25:39 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2024-06-05 11:25:39 : INFO] - Re_Smush_It_Task - Attachment ID : 68, Started on : June 05, 2024 11:25:00 
+[2024-06-05 11:25:39 : INFO] - File: pic-11.png, Compression quality: 92 
+[2024-06-05 11:25:40 : INFO] - Backing up the original image - 2024/06/pic-11-updraft-pre-smush-original.png 
+[2024-06-05 11:25:42 : INFO] - Successfully optimized the image - /srv/vhost/fitnatty.net/home/html/wp-content/uploads/2024/06/pic-11.png.El archivo se ha comprimido de 275.82 KB a 97.50 KB, ahorrando un 64.65 por ciento, usando WP-Optimize 
+[2024-06-05 11:25:42 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2024-06-05 11:25:42 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2024-06-05 11:25:42 : INFO] - Re_Smush_It_Task - Attachment ID : 94, Started on : June 05, 2024 11:25:00 
+[2024-06-05 11:25:42 : INFO] - File: Group-77-1.png, Compression quality: 92 
+[2024-06-05 11:25:42 : INFO] - Backing up the original image - 2024/06/Group-77-1-updraft-pre-smush-original.png 
+[2024-06-05 11:25:42 : INFO] - Successfully optimized the image - /srv/vhost/fitnatty.net/home/html/wp-content/uploads/2024/06/Group-77-1.png.El archivo se ha comprimido de 6.59 KB a 4.24 KB, ahorrando un 35.71 por ciento, usando WP-Optimize 
+[2024-06-05 11:25:42 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2024-06-05 11:25:42 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2024-06-05 11:25:42 : INFO] - Re_Smush_It_Task - Attachment ID : 100, Started on : June 05, 2024 11:25:01 
+[2024-06-05 11:25:42 : INFO] - File: SAVE_20240602_052921-edited.jpg, Compression quality: 92 
+[2024-06-05 11:25:43 : INFO] - Backing up the original image - 2024/06/SAVE_20240602_052921-edited-updraft-pre-smush-original.jpg 
+[2024-06-05 11:25:45 : INFO] - Successfully optimized the image - /srv/vhost/fitnatty.net/home/html/wp-content/uploads/2024/06/SAVE_20240602_052921-edited.jpg.El archivo se ha comprimido de 64.22 KB a 61.80 KB, ahorrando un 3.77 por ciento, usando WP-Optimize 
+[2024-06-05 11:25:45 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2024-06-05 11:25:45 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2024-06-05 11:25:45 : INFO] - Re_Smush_It_Task - Attachment ID : 101, Started on : June 05, 2024 11:25:01 
+[2024-06-05 11:25:45 : INFO] - File: SAVE_20240602_052921-edited-1.jpg, Compression quality: 92 
+[2024-06-05 11:25:47 : INFO] - Backing up the original image - 2024/06/SAVE_20240602_052921-edited-1-updraft-pre-smush-original.jpg 
+[2024-06-05 11:25:50 : INFO] - Successfully optimized the image - /srv/vhost/fitnatty.net/home/html/wp-content/uploads/2024/06/SAVE_20240602_052921-edited-1.jpg.El archivo se ha comprimido de 81.32 KB a 77.94 KB, ahorrando un 4.16 por ciento, usando WP-Optimize 
+[2024-06-05 11:25:50 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2024-06-05 11:25:50 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2024-06-05 11:25:50 : INFO] - Re_Smush_It_Task - Attachment ID : 104, Started on : June 05, 2024 11:25:01 
+[2024-06-05 11:25:50 : INFO] - File: SAVE_20240602_052927-1.jpg, Compression quality: 92 
+[2024-06-05 11:25:52 : INFO] - Backing up the original image - 2024/06/SAVE_20240602_052927-1-updraft-pre-smush-original.jpg 
+[2024-06-05 11:25:55 : INFO] - Successfully optimized the image - /srv/vhost/fitnatty.net/home/html/wp-content/uploads/2024/06/SAVE_20240602_052927-1.jpg.El archivo se ha comprimido de 315.15 KB a 202.83 KB, ahorrando un 35.64 por ciento, usando WP-Optimize 
+[2024-06-05 11:25:55 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2024-06-05 11:25:55 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2024-06-05 11:25:55 : INFO] - Re_Smush_It_Task - Attachment ID : 114, Started on : June 05, 2024 11:25:01 
+[2024-06-05 11:25:55 : INFO] - File: image.png, Compression quality: 92 
+[2024-06-05 11:25:57 : INFO] - Backing up the original image - 2024/06/image-updraft-pre-smush-original.png 
+[2024-06-05 11:25:59 : INFO] - Successfully optimized the image - /srv/vhost/fitnatty.net/home/html/wp-content/uploads/2024/06/image.png.El archivo se ha comprimido de 408.61 KB a 180.48 KB, ahorrando un 55.83 por ciento, usando WP-Optimize 
+[2024-06-05 11:25:59 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2024-06-05 11:25:59 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2024-06-05 11:25:59 : INFO] - Re_Smush_It_Task - Attachment ID : 115, Started on : June 05, 2024 11:25:01 
+[2024-06-05 11:25:59 : INFO] - File: image_1.png, Compression quality: 92 
+[2024-06-05 11:26:01 : INFO] - Backing up the original image - 2024/06/image_1-updraft-pre-smush-original.png 
+[2024-06-05 11:26:01 : INFO] - A total of 10 tasks of type smush found and will be processed in this iteration 
+[2024-06-05 11:26:01 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-06-05 11:26:01 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-06-05 11:26:01 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-06-05 11:26:01 : INFO] - Cleaning up tasks of type (smush). A total of 13 tasks will be deleted. 
+[2024-06-05 11:26:03 : INFO] - Successfully optimized the image - /srv/vhost/fitnatty.net/home/html/wp-content/uploads/2024/06/image_1.png.El archivo se ha comprimido de 200.35 KB a 84.22 KB, ahorrando un 57.97 por ciento, usando WP-Optimize 
+[2024-06-05 11:26:03 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2024-06-05 11:26:03 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2024-06-05 11:26:03 : INFO] - Re_Smush_It_Task - Attachment ID : 117, Started on : June 05, 2024 11:25:01 
+[2024-06-05 11:26:03 : INFO] - File: image_1-1.png, Compression quality: 92 
+[2024-06-05 11:26:04 : INFO] - Backing up the original image - 2024/06/image_1-1-updraft-pre-smush-original.png 
+[2024-06-05 11:26:07 : INFO] - Successfully optimized the image - /srv/vhost/fitnatty.net/home/html/wp-content/uploads/2024/06/image_1-1.png.El archivo se ha comprimido de 200.35 KB a 84.22 KB, ahorrando un 57.97 por ciento, usando WP-Optimize 
+[2024-06-05 11:26:07 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2024-06-05 11:26:07 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2024-06-05 11:26:07 : INFO] - Re_Smush_It_Task - Attachment ID : 167, Started on : June 05, 2024 11:25:01 
+[2024-06-05 11:26:07 : INFO] - File: image_1-2.png, Compression quality: 92 
+[2024-06-05 11:26:08 : INFO] - Backing up the original image - 2024/06/image_1-2-updraft-pre-smush-original.png 
+[2024-06-05 11:26:10 : INFO] - Successfully optimized the image - /srv/vhost/fitnatty.net/home/html/wp-content/uploads/2024/06/image_1-2.png.El archivo se ha comprimido de 200.35 KB a 84.22 KB, ahorrando un 57.97 por ciento, usando WP-Optimize 
+[2024-06-05 11:26:10 : INFO] - Completed processing task with ID : 16, and type 'smush' 
+[2024-06-05 11:26:10 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2024-06-05 11:26:10 : INFO] - Re_Smush_It_Task - Attachment ID : 168, Started on : June 05, 2024 11:25:01 
+[2024-06-05 11:26:10 : INFO] - File: file.png, Compression quality: 92 
+[2024-06-05 11:26:11 : INFO] - Backing up the original image - 2024/06/file-updraft-pre-smush-original.png 
+[2024-06-05 11:26:14 : INFO] - Successfully optimized the image - /srv/vhost/fitnatty.net/home/html/wp-content/uploads/2024/06/file.png.El archivo se ha comprimido de 352.72 KB a 170.94 KB, ahorrando un 51.54 por ciento, usando WP-Optimize 
+[2024-06-05 11:26:14 : INFO] - Completed processing task with ID : 17, and type 'smush' 
+[2024-06-05 11:26:14 : INFO] - Processing task with ID : 18, and type 'smush' 
+[2024-06-05 11:26:14 : INFO] - Re_Smush_It_Task - Attachment ID : 169, Started on : June 05, 2024 11:25:01 
+[2024-06-05 11:26:14 : INFO] - File: file-1.png, Compression quality: 92 
+[2024-06-05 11:26:15 : INFO] - Backing up the original image - 2024/06/file-1-updraft-pre-smush-original.png 
+[2024-06-05 11:26:18 : INFO] - Successfully optimized the image - /srv/vhost/fitnatty.net/home/html/wp-content/uploads/2024/06/file-1.png.El archivo se ha comprimido de 352.72 KB a 170.94 KB, ahorrando un 51.54 por ciento, usando WP-Optimize 
+[2024-06-05 11:26:18 : INFO] - Completed processing task with ID : 18, and type 'smush' 
+[2024-06-05 11:26:18 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2024-06-05 11:26:18 : INFO] - Re_Smush_It_Task - Attachment ID : 300, Started on : June 05, 2024 11:25:01 
+[2024-06-05 11:26:18 : INFO] - File: file-2.png, Compression quality: 92 
+[2024-06-05 11:26:19 : INFO] - Backing up the original image - 2024/06/file-2-updraft-pre-smush-original.png 
+[2024-06-05 11:26:22 : INFO] - Successfully optimized the image - /srv/vhost/fitnatty.net/home/html/wp-content/uploads/2024/06/file-2.png.El archivo se ha comprimido de 352.72 KB a 170.94 KB, ahorrando un 51.54 por ciento, usando WP-Optimize 
+[2024-06-05 11:26:22 : INFO] - Completed processing task with ID : 19, and type 'smush' 
+[2024-06-05 11:26:22 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2024-06-05 11:26:22 : INFO] - Re_Smush_It_Task - Attachment ID : 307, Started on : June 05, 2024 11:25:01 
+[2024-06-05 11:26:22 : INFO] - File: pexels-pixabay-260352.jpg, Compression quality: 92 
+[2024-06-05 11:26:26 : INFO] - Backing up the original image - 2024/06/pexels-pixabay-260352-updraft-pre-smush-original.jpg 
+[2024-06-05 11:26:37 : INFO] - Successfully optimized the image - /srv/vhost/fitnatty.net/home/html/wp-content/uploads/2024/06/pexels-pixabay-260352.jpg.El archivo se ha comprimido de 210.62 KB a 210.62 KB, ahorrando un 0 por ciento, usando WP-Optimize 
+[2024-06-05 11:26:37 : INFO] - Completed processing task with ID : 20, and type 'smush' 
+[2024-06-05 11:26:37 : INFO] - Processing task with ID : 21, and type 'smush' 
+[2024-06-05 11:26:37 : INFO] - Re_Smush_It_Task - Attachment ID : 372, Started on : June 05, 2024 11:25:01 
+[2024-06-05 11:26:37 : INFO] - File: 40EF8916-8BA0-49BB-AAD5-0697C4C7B942-scaled.jpeg, Compression quality: 92 
+[2024-06-05 11:26:43 : INFO] - Backing up the original image - 2024/06/40EF8916-8BA0-49BB-AAD5-0697C4C7B942-scaled-updraft-pre-smush-original.jpeg 
+[2024-06-05 11:26:53 : INFO] - Successfully optimized the image - /srv/vhost/fitnatty.net/home/html/wp-content/uploads/2024/06/40EF8916-8BA0-49BB-AAD5-0697C4C7B942-scaled.jpeg.El archivo se ha comprimido de 190.26 KB a 159.70 KB, ahorrando un 16.06 por ciento, usando WP-Optimize 
+[2024-06-05 11:26:53 : INFO] - Completed processing task with ID : 21, and type 'smush' 
+[2024-06-05 11:26:53 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2024-06-05 11:26:53 : INFO] - Re_Smush_It_Task - Attachment ID : 388, Started on : June 05, 2024 11:25:01 
+[2024-06-05 11:26:53 : INFO] - File: WhatsApp-Image-2024-06-05-at-08.56.29-2.jpeg, Compression quality: 92 
+[2024-06-05 11:26:54 : INFO] - Backing up the original image - 2024/06/WhatsApp-Image-2024-06-05-at-08.56.29-2-updraft-pre-smush-original.jpeg 
+[2024-06-05 11:26:58 : INFO] - Successfully optimized the image - /srv/vhost/fitnatty.net/home/html/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-05-at-08.56.29-2.jpeg.El archivo se ha comprimido de 89.12 KB a 88.47 KB, ahorrando un 0.73 por ciento, usando WP-Optimize 
+[2024-06-05 11:26:58 : INFO] - Completed processing task with ID : 22, and type 'smush' 
+[2024-06-05 11:26:58 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2024-06-05 11:26:58 : INFO] - Re_Smush_It_Task - Attachment ID : 389, Started on : June 05, 2024 11:25:02 
+[2024-06-05 11:26:58 : INFO] - File: WhatsApp-Image-2024-06-05-at-08.56.29-3.jpeg, Compression quality: 92 
+[2024-06-05 11:27:00 : INFO] - Backing up the original image - 2024/06/WhatsApp-Image-2024-06-05-at-08.56.29-3-updraft-pre-smush-original.jpeg 
+[2024-06-05 11:27:03 : INFO] - Successfully optimized the image - /srv/vhost/fitnatty.net/home/html/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-05-at-08.56.29-3.jpeg.El archivo se ha comprimido de 66.83 KB a 61.82 KB, ahorrando un 7.5 por ciento, usando WP-Optimize 
+[2024-06-05 11:27:03 : INFO] - Completed processing task with ID : 23, and type 'smush' 
+[2024-06-05 11:27:03 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-06-05 11:27:03 : INFO] - Successfully processed the queue (smush). 23 tasks were processed out of 23. 
+[2024-06-05 11:27:03 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-06-05 11:27:03 : INFO] - Cleaning up tasks of type (smush). A total of 10 tasks will be deleted. 
+[2024-06-05 13:11:20 : INFO] - Re_Smush_It_Task with attachment ID : 412, autocreated on : June 05, 2024 01:11:20 
+[2024-06-05 13:16:43 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-06-05 13:16:43 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-06-05 13:16:43 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-06-05 13:16:43 : INFO] - Processing task with ID : 24, and type 'smush' 
+[2024-06-05 13:16:43 : INFO] - Re_Smush_It_Task with attachment ID : 412, autocreated on : June 05, 2024 01:11:20 
+[2024-06-05 13:16:43 : INFO] - File: WhatsApp-Image-2024-06-05-at-08.56.29-2-1.jpeg, Compression quality: 92 
+[2024-06-05 13:16:45 : INFO] - Backing up the original image - 2024/06/WhatsApp-Image-2024-06-05-at-08.56.29-2-1-updraft-pre-smush-original.jpeg 
+[2024-06-05 13:16:50 : INFO] - Successfully optimized the image - /srv/vhost/fitnatty.net/home/html/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-05-at-08.56.29-2-1.jpeg.El archivo se ha comprimido de 89.12 KB a 88.47 KB, ahorrando un 0.73 por ciento, usando WP-Optimize 
+[2024-06-05 13:16:50 : INFO] - Completed processing task with ID : 24, and type 'smush' 
+[2024-06-05 13:16:50 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-06-05 13:16:50 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-06-05 13:16:50 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-06-05 13:16:50 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2024-06-05 13:27:47 : INFO] - Pruning the smush log file 
