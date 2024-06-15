@@ -1,24 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet
-		version="1.0"
-		xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-		xmlns:sitemap="http://www.sitemaps.org/schemas/sitemap/0.9"
-		exclude-result-prefixes="sitemap"
-		>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:sitemap="http://www.sitemaps.org/schemas/sitemap/0.9" exclude-result-prefixes="sitemap">
 
-	<xsl:output method="html" encoding="UTF-8" indent="yes" />
+	<output method="html" encoding="UTF-8" indent="yes"></output>
 
 	<!--
 	  Set variables for whether lastmod, changefreq or priority occur for any url in the sitemap.
 	  We do this up front because it can be expensive in a large sitemap.
 	  -->
-	<xsl:variable name="has-lastmod"    select="count( /sitemap:urlset/sitemap:url/sitemap:lastmod )"    />
-	<xsl:variable name="has-changefreq" select="count( /sitemap:urlset/sitemap:url/sitemap:changefreq )" />
-	<xsl:variable name="has-priority"   select="count( /sitemap:urlset/sitemap:url/sitemap:priority )"   />
+	<variable name="has-lastmod" select="count( /sitemap:urlset/sitemap:url/sitemap:lastmod )"></variable>
+	<variable name="has-changefreq" select="count( /sitemap:urlset/sitemap:url/sitemap:changefreq )"></variable>
+	<variable name="has-priority" select="count( /sitemap:urlset/sitemap:url/sitemap:priority )"></variable>
 
-	<xsl:template match="/">
-		<html lang="es">
-			<head>
+	<template match="/">
+		
+			
 				<title>Mapa del sitio XML</title>
 				<style>
 					
@@ -65,51 +60,55 @@
 					}
 
 				</style>
-			</head>
-			<body>
+			
+			
 				<div id="sitemap">
 					<div id="sitemap__header">
 						<h1>Mapa del sitio XML</h1>
-						<p>Este mapa de sitio XML lo genera WordPress para hacer que tu contenido sea más visible para los motores de búsqueda.</p>
-						<p><a href="https://www.sitemaps.org/">Aprende más sobre de los mapas del sitio XML.</a></p>
+						<p>Este mapa de sitio XML lo genera WordPress para hacer que tu contenido sea m&aacute;s visible para los motores de b&uacute;squeda.</p>
+						<p><a href="https://www.sitemaps.org/">Aprende m&aacute;s sobre de los mapas del sitio XML.</a></p>
 					</div>
 					<div id="sitemap__content">
-						<p class="text">Número de URLs en este mapa del sitio XML: <xsl:value-of select="count( sitemap:urlset/sitemap:url )" />.</p>
+						<p class="text">N&uacute;mero de URLs en este mapa del sitio XML: <value-of select="count( sitemap:urlset/sitemap:url )"></value-of>.</p>
 						<table id="sitemap__table">
 							<thead>
 								<tr>
 									<th class="loc">URL</th>
-									<xsl:if test="$has-lastmod">
-										<th class="lastmod">Última modificación</th>
-									</xsl:if>
-									<xsl:if test="$has-changefreq">
+									<if test="$has-lastmod">
+										<th class="lastmod">&Uacute;ltima modificaci&oacute;n</th>
+									</if>
+									<if test="$has-changefreq">
 										<th class="changefreq">Frecuencia de cambio</th>
-									</xsl:if>
-									<xsl:if test="$has-priority">
+									</if>
+									<if test="$has-priority">
 										<th class="priority">Prioridad</th>
-									</xsl:if>
+									</if>
 								</tr>
 							</thead>
 							<tbody>
-								<xsl:for-each select="sitemap:urlset/sitemap:url">
+								<for-each select="sitemap:urlset/sitemap:url">
 									<tr>
-										<td class="loc"><a href="{sitemap:loc}"><xsl:value-of select="sitemap:loc" /></a></td>
-										<xsl:if test="$has-lastmod">
-											<td class="lastmod"><xsl:value-of select="sitemap:lastmod" /></td>
-										</xsl:if>
-										<xsl:if test="$has-changefreq">
-											<td class="changefreq"><xsl:value-of select="sitemap:changefreq" /></td>
-										</xsl:if>
-										<xsl:if test="$has-priority">
-											<td class="priority"><xsl:value-of select="sitemap:priority" /></td>
-										</xsl:if>
+										<td class="loc"><a href="/%7Bsitemap:loc%7D"><value-of select="sitemap:loc"></value-of></a></td>
+										<if test="$has-lastmod">
+											<td class="lastmod"><value-of select="sitemap:lastmod"></value-of></td>
+										</if>
+										<if test="$has-changefreq">
+											<td class="changefreq"><value-of select="sitemap:changefreq"></value-of></td>
+										</if>
+										<if test="$has-priority">
+											<td class="priority"><value-of select="sitemap:priority"></value-of></td>
+										</if>
 									</tr>
-								</xsl:for-each>
+								</for-each>
 							</tbody>
 						</table>
 					</div>
 				</div>
-			</body>
-		</html>
-	</xsl:template>
-</xsl:stylesheet>
+			
+		
+	</template>
+</stylesheet>
+
+<!-- Cached by WP-Optimize - https://getwpo.com - Last modified: 15 de June de 2024 15:05 (Europe/Madrid UTC:2) -->
+</body></html>
+<!-- Powered by Staatic (https://staatic.com/) -->
