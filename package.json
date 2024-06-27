@@ -1,6 +1,0 @@
-{
-  "build": {
-    "path": "dist", 
-    "command": "npm install && npm run build"
-  }
-}
